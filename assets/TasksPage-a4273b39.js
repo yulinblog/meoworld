@@ -1,0 +1,1 @@
+import{T as s}from"./TodoList-d932e2b0.js";import{p as t,b7 as e,c as a,C as r,o as n}from"./index-238de57f.js";const d=t({__name:"TasksPage",setup(c){const o=e();return(p,_)=>(n(),a(s,{tasks:r(o).getTodoList},null,8,["tasks"]))}});export{d as default};

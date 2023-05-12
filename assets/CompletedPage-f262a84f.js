@@ -1,0 +1,1 @@
+import{T as e}from"./TodoList-d932e2b0.js";import{p as t,b7 as s,c as a,C as r,o as n}from"./index-238de57f.js";const l=t({__name:"CompletedPage",setup(p){const o=s();return(c,m)=>(n(),a(e,{tasks:r(o).getCompletedTodos},null,8,["tasks"]))}});export{l as default};

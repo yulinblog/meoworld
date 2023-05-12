@@ -1,0 +1,1 @@
+import{T as s}from"./TodoList-d932e2b0.js";import{p as t,b7 as r,aj as n,c,C as u,o as p,bw as l}from"./index-238de57f.js";const i=t({__name:"LabelPage",setup(m){const o=r(),a=l();return n(()=>a.params.id,e=>{o.currentLabel=e}),(e,_)=>(p(),c(s,{tasks:u(o).getLabelTodos},null,8,["tasks"]))}});export{i as default};

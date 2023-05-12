@@ -1,0 +1,1 @@
+import{_ as s,e as c,a as e,w as a,O as r,o,$ as _,c as l,b8 as p}from"./index-238de57f.js";const i={};function f(m,d){const t=r("router-view");return o(),c("div",null,[e(t,{class:"gp"},{default:a(({Component:n})=>[e(_,{name:"fade"},{default:a(()=>[(o(),l(p(n)))]),_:2},1024)]),_:1})])}const v=s(i,[["render",f]]);export{v as default};

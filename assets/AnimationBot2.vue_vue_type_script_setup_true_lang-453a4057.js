@@ -1,0 +1,1 @@
+import{p as s,o,c as n,C as a,a0 as i}from"./index-238de57f.js";const h=s({__name:"AnimationBot2",props:{size:{type:Number,default:400}},setup(t){const e=t;return(p,r)=>(o(),n(a(i),{animationLink:"https://assets4.lottiefiles.com/packages/lf20_zrqthn6o.json",height:e.size,width:e.size},null,8,["height","width"]))}});export{h as _};

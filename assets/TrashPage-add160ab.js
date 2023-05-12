@@ -1,0 +1,1 @@
+import{u as a,E as s}from"./EmailList-b8eb64d2.js";import{p as o,c as t,C as r,o as n}from"./index-238de57f.js";const u=o({__name:"TrashPage",setup(m){const e=a();return(i,c)=>(n(),t(s,{emails:r(e).getInboxList},null,8,["emails"]))}});export{u as default};
